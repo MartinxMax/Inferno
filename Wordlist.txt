@@ -1,0 +1,406 @@
+Input Assembly
+Output Assembly
+Configuration Assembly
+Status
+Fault
+Heartbeat
+Control
+Command
+Speed
+Position
+Temperature
+Pressure
+Voltage
+Current
+Mode
+Alarm
+Setpoint
+Feedback
+Enable
+Disable
+Start
+Stop
+Reset
+Emergency Stop
+Power
+Load
+Unload
+Run
+Pause
+Resume
+Cycle Complete
+Cycle Start
+Cycle Stop
+Error Code
+Error Description
+Warning
+Maintenance Required
+Operating Hours
+Cycle Count
+Production Rate
+Efficiency
+Utilization
+Availability
+Performance
+Quality
+Downtime
+Uptime
+Cycle Time
+Takt Time
+OEE (Overall Equipment Effectiveness)
+Production Target
+Production Actual
+Production Variance
+Job Number
+Operator ID
+Shift
+Batch Number
+Recipe
+Material
+Part Number
+Serial Number
+Lot Number
+Supplier
+Customer
+Order Number
+Delivery Date
+Due Date
+Inspection
+Test Result
+Calibration
+Certification
+Compliance
+Approval
+Rejection
+Scrap
+Rework
+Yield
+Defect
+Defect Code
+Defect Description
+Root Cause
+Corrective Action
+Preventive Action
+Audit
+Audit Result
+Audit Finding
+Audit Action
+Non-Conformance
+Non-Conformance Report
+Deviation
+Deviation Report
+Change Request
+Change Order
+Change Approval
+Change Implementation
+Change Verification
+Change Validation
+Change Documentation
+Change Training
+Change Communication
+Change Management
+Risk Assessment
+Risk Mitigation
+Risk Acceptance
+Risk Transfer
+Risk Avoidance
+Risk Monitoring
+Risk Reporting
+Risk Review
+Risk Closure
+Incident
+Incident Report
+Incident Investigation
+Incident Analysis
+Incident Resolution
+Incident Follow-Up
+Incident Closure
+Incident Communication
+Incident Training
+Incident Documentation
+Incident Management
+Hazard
+Hazard Identification
+Hazard Analysis
+Hazard Control
+Hazard Communication
+Hazard Training
+Hazard Documentation
+Safety
+Safety Plan
+Safety Procedure
+Safety Training
+Safety Audit
+Safety Inspection
+Safety Incident
+Safety Report
+Safety Investigation
+Safety Analysis
+Safety Resolution
+Safety Follow-Up
+Safety Closure
+Safety Communication
+Safety Documentation
+Safety Management
+Health
+Health Plan
+Health Procedure
+Health Training
+Health Audit
+Health Inspection
+Health Incident
+Health Report
+Health Investigation
+Health Analysis
+Health Resolution
+Health Follow-Up
+Health Closure
+Health Communication
+Health Documentation
+Health Management
+Environment
+Environmental Plan
+Environmental Procedure
+Environmental Training
+Environmental Audit
+Environmental Inspection
+Environmental Incident
+Environmental Report
+Environmental Investigation
+Environmental Analysis
+Environmental Resolution
+Environmental Follow-Up
+Environmental Closure
+Environmental Communication
+Environmental Documentation
+Environmental Management
+Quality Plan
+Quality Procedure
+Quality Training
+Quality Audit
+Quality Inspection
+Quality Incident
+Quality Report
+Quality Investigation
+Quality Analysis
+Quality Resolution
+Quality Follow-Up
+Quality Closure
+Quality Communication
+Quality Documentation
+Quality Management
+Process Plan
+Process Procedure
+Process Training
+Process Audit
+Process Inspection
+Process Incident
+Process Report
+Process Investigation
+Process Analysis
+Process Resolution
+Process Follow-Up
+Process Closure
+Process Communication
+Process Documentation
+Process Management
+Production Plan
+Production Procedure
+Production Training
+Production Audit
+Production Inspection
+Production Incident
+Production Report
+Production Investigation
+Production Analysis
+Production Resolution
+Production Follow-Up
+Production Closure
+Production Communication
+Production Documentation
+Production Management
+Maintenance Plan
+Maintenance Procedure
+Maintenance Training
+Maintenance Audit
+Maintenance Inspection
+Maintenance Incident
+Maintenance Report
+Maintenance Investigation
+Maintenance Analysis
+Maintenance Resolution
+Maintenance Follow-Up
+Maintenance Closure
+Maintenance Communication
+Maintenance Documentation
+Maintenance Management
+Inventory Plan
+Inventory Procedure
+Inventory Training
+Inventory Audit
+Inventory Inspection
+Inventory Incident
+Inventory Report
+Inventory Investigation
+Inventory Analysis
+Inventory Resolution
+Inventory Follow-Up
+Inventory Closure
+Inventory Communication
+Inventory Documentation
+Inventory Management
+Logistics Plan
+Logistics Procedure
+Logistics Training
+Logistics Audit
+Logistics Inspection
+Logistics Incident
+Logistics Report
+Logistics Investigation
+Logistics Analysis
+Logistics Resolution
+Logistics Follow-Up
+Logistics Closure
+Logistics Communication
+Logistics Documentation
+Logistics Management
+Supply Chain Plan
+Supply Chain Procedure
+Supply Chain Training
+Supply Chain Audit
+Supply Chain Inspection
+Supply Chain Incident
+Supply Chain Report
+SCADA
+Supply Chain Investigation
+Supply Chain Analysis
+Supply Chain Resolution
+Supply Chain Follow-Up
+Supply Chain Closure
+Supply Chain Communication
+Supply Chain Documentation
+Supply Chain Management
+Procurement Plan
+Procurement Procedure
+Procurement Training
+Procurement Audit
+Procurement Inspection
+Procurement Incident
+Procurement Report
+Procurement Investigation
+Procurement Analysis
+Procurement Resolution
+Procurement Follow-Up
+Procurement Closure
+Procurement Communication
+Procurement Documentation
+Procurement Management
+Vendor Plan
+Vendor Procedure
+Vendor Training
+Vendor Audit
+Vendor Inspection
+Vendor Incident
+Vendor Report
+Vendor Investigation
+Vendor Analysis
+Vendor Resolution
+Vendor Follow-Up
+Vendor Closure
+Vendor Communication
+Vendor Documentation
+Vendor Management
+Customer Plan
+Customer Procedure
+Customer Training
+Customer Audit
+Customer Inspection
+Customer Incident
+Customer Report
+Customer Investigation
+Customer Analysis
+Customer Resolution
+Customer Follow-Up
+Customer Closure
+Customer Communication
+Customer Documentation
+Customer Management
+Order Plan
+Order Procedure
+Order Training
+Order Audit
+Order Inspection
+Order Incident
+Order Report
+Order Investigation
+Order Analysis
+Order Resolution
+Order Follow-Up
+Order Closure
+Order Communication
+Order Documentation
+Order Management
+Delivery Plan
+Delivery Procedure
+Delivery Training
+Delivery Audit
+Delivery Inspection
+Delivery Incident
+Delivery Report
+Delivery Investigation
+Delivery Analysis
+Delivery Resolution
+Delivery Follow-Up
+Delivery Closure
+Delivery Communication
+Delivery Documentation
+Delivery Management
+Shipment Plan
+Shipment Procedure
+Shipment Training
+Shipment Audit
+Shipment Inspection
+Shipment Incident
+Shipment Report
+Shipment Investigation
+Shipment Analysis
+Shipment Resolution
+Shipment Follow-Up
+Shipment Closure
+Shipment Communication
+Shipment Documentation
+Shipment Management
+Transportation Plan
+Transportation Procedure
+Transportation Training
+Transportation Audit
+Transportation Inspection
+Transportation Incident
+Transportation Report
+Transportation Investigation
+Transportation Analysis
+Transportation Resolution
+Transportation Follow-Up
+Transportation Closure
+Transportation Communication
+Transportation Documentation
+Transportation Management
+Warehouse Plan
+Warehouse Procedure
+Warehouse Training
+Warehouse Audit
+Warehouse Inspection
+Warehouse Incident
+Warehouse Report
+Warehouse Investigation
+Warehouse Analysis
+Warehouse Resolution
+Warehouse Follow-Up
+Warehouse Closure
+Warehouse Communication
+Warehouse Documentation
+Warehouse Management
+Storage Plan
+Storage Procedure
+Storage Training
+Storage Audit
